@@ -4,7 +4,7 @@ title: My First Blog
 published: true
 ---
 
-Hello CHandu Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello Chandu Nikhil how are you Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
